@@ -3,3 +3,4 @@ solveit
 test.in
 test.out
 run.sh
+*.in
